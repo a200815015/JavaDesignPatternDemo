@@ -3,7 +3,7 @@ package com.example;
 import java.util.ArrayList;
 import java.util.Observer;
 
-public class Test {
+public class TestObserver {
     public static void main(String[] arg){
         ArrayList<String> mList=new ArrayList<>();
         ConcreteListObservable observable=new ConcreteListObservable(mList);

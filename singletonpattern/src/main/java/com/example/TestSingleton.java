@@ -1,6 +1,6 @@
 package com.example;
 
-public class Test {
+public class TestSingleton {
     public static void main(String[] arg) {
 
     }

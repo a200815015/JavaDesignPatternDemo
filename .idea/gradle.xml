@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ObserverPatternDemo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/decoratorpattern" />
             <option value="$PROJECT_DIR$/singletonpattern" />
           </set>
         </option>

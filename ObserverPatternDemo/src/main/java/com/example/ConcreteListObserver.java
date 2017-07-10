@@ -5,6 +5,7 @@ import java.util.Observer;
 
 /**
  * Created by yuanzhuang on 2017/7/5.
+ *
  */
 
 public class ConcreteListObserver implements Observer {
@@ -19,11 +20,11 @@ public class ConcreteListObserver implements Observer {
         if (o != null && o instanceof ObserveListEvent) {
             ObserveListEvent event = (ObserveListEvent) o;
             if (event.getCode() == 1) {
-                System.out.println(this.getObserverName() + "..." +"add "+"event \""+event.getSource()+"\" arrived");
+                System.out.println(this.getObserverName() + "..." + "add " + "event \"" + event.getSource() + "\" arrived");
             } else if (event.getCode() == -1) {
-                System.out.println(this.getObserverName() + "..." +"remove "+"event \""+event.getSource()+"\" arrived");
+                System.out.println(this.getObserverName() + "..." + "remove " + "event \"" + event.getSource() + "\" arrived");
             } else if (event.getCode() == 0) {
-                System.out.println(this.getObserverName() + "..." +"update "+"event \""+event.getSource()+"\" arrived");
+                System.out.println(this.getObserverName() + "..." + "update " + "event \"" + event.getSource() + "\" arrived");
             }
         }
 

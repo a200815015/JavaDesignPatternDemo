@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaDemo.iml" filepath="$PROJECT_DIR$/JavaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPatternDemo/ObserverPatternDemo.iml" filepath="$PROJECT_DIR$/ObserverPatternDemo/ObserverPatternDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bridgepattern/bridgepattern.iml" filepath="$PROJECT_DIR$/bridgepattern/bridgepattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/decoratorpattern/decoratorpattern.iml" filepath="$PROJECT_DIR$/decoratorpattern/decoratorpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singletonpattern/singletonpattern.iml" filepath="$PROJECT_DIR$/singletonpattern/singletonpattern.iml" />
     </modules>

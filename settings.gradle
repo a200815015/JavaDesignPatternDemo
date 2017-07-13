@@ -1,1 +1,1 @@
-include ':app', ':ObserverPatternDemo', ':singletonpattern', ':decoratorpattern', ':bridgepattern'
+include ':app', ':Observer', ':singleton', ':decorator', ':bridge', ':adapter'

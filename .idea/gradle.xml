@@ -8,11 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/ObserverPatternDemo" />
+            <option value="$PROJECT_DIR$/Observer" />
+            <option value="$PROJECT_DIR$/adapter" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/bridgepattern" />
-            <option value="$PROJECT_DIR$/decoratorpattern" />
-            <option value="$PROJECT_DIR$/singletonpattern" />
+            <option value="$PROJECT_DIR$/bridge" />
+            <option value="$PROJECT_DIR$/decorator" />
+            <option value="$PROJECT_DIR$/singleton" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
